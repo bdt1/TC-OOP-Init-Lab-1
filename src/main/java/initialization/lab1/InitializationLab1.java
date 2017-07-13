@@ -20,13 +20,13 @@ public class InitializationLab1 {
 		System.out.println(c4.getColor());
 		System.out.println(c5.getColor());
 		
-		
+		/*
 		BoringThing b1 = new BoringThing("brown");
 		BoringThing b2 = new BoringThing("violet");
 		BoringThing b3 = new BoringThing("purple");
 		BoringThing b4 = new BoringThing("pink");
 		BoringThing b5 = new BoringThing("rose");
-		
+		*/
 		
 	}
 	
