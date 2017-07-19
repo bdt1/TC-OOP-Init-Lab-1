@@ -75,8 +75,8 @@ public class ThingContainer {
 				} else {
 					colorfulThingsArray[i] = colorfulThingsArray[i + 1];
 				}
+				
 			}
-
 		}
 		return deletedColor;
 
